@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "asd",
+      "lastname": "asd",
+      "phoneNumber": "das",
+      "weeklyKpi": "sad",
+      "monthlyKpi": "ads",
+      "id": 7
+    },
+    {
+      "name": "dasj",
+      "lastname": "dasds",
+      "phoneNumber": "sad",
+      "weeklyKpi": "das",
+      "monthlyKpi": "das",
+      "id": 10
+    },
+    {
+      "name": "dsa",
+      "lastname": "dasd",
+      "phoneNumber": "dsa",
+      "weeklyKpi": "das",
+      "monthlyKpi": "das",
+      "id": 11
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+
+#content{
+    padding-top: 100px;
+}
+
+
+.bg{
+    /*background-image: url("../images/img.jpg");*/
+    /*background-size: cover;*/
+    /*background-repeat: no-repeat;*/
+    /*background-position: center;*/
+    height: 100vh;
+    background-color: #2c3e50;
+}
+.t_p{
+    color: whitesmoke;
+}
+
+.title{
+    background-color: #212529;
+    padding: 20px;
+    color: whitesmoke;
+    border-radius: 20px;
+    font-weight: bold;
+}
+.users{
+    color: whitesmoke;
+    padding: 10px;
+}
+.navbar{
+    padding: 20px;
+    border-radius: 20px;
+}
